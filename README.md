@@ -275,7 +275,7 @@ Some potential improvements for this project:
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-This project was created for educational purposes as part of the InternIntelligence internship program.
+This project was created for educational purposes as part of the **InternIntelligence** internship program.
 
 ---
 
