@@ -165,6 +165,7 @@ InternIntelligence_MovieAPI-main/
 │           └── application-test.properties    # Test configuration
 │
 ├── .gitignore                                 # Git ignore rules
+├── LICENSE                                    # MIT License
 ├── pom.xml                                    # Maven dependencies
 └── README.md                                  # This file
 ```
@@ -271,6 +272,8 @@ Some potential improvements for this project:
 ---
 
 ## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 This project was created for educational purposes as part of the InternIntelligence internship program.
 
